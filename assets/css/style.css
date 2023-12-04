@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body {
+    margin:auto;
+    font-family: "Raleway", sans-serif;
+}
+header{
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+    background-position: center;
+    height: 59px;
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 73px;
+}
+h1{
+    display: inline-block;
+    justify-content: center;
+    color: #FFFFFF;
+    text-align: left;
+    opacity: 1;
+    top: 7px;
+    font: medium;
+    left: 530px;
+    width: 221px;
+    height: 59px;
+}
+.iguana-principal{
+    background: transparent url('../img/bg-header.jpg') 0% 0% no-repeat padding-box; opacity: 1;
+    top: 73px;
+    left: 0px;
+    width: 1280px;
+    height: 727px;
+}
+.iguana-segunda-parte{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #000000;
+    top: 800px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+}
+.iguana-segunda-parte p{
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    top: 876px;
+    font-weight: 300;
+    left: 150px;
+    width: 475px;
+    height: 197px;
+}
+.iguana-segunda-parte img{
+    top: 876px;
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+}
+.container {
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    position: relative;
+    height: 400px;
+    align-items: center;
+}
+.iguana-tercera-parte{
+    align-items: center;
+    background-color: #1E1A13;
+    width: 1280px;
+    height: 348px;
+}
+.iguana-tercera-parte h2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    font: normal normal medium Raleway;
+    color: #FFFFFF;
+    font-size: 40px;
+}
+.caracteristicas{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    text-align: center;
+}
+.Características p{
+    align-items: center;
+    text-align: left;
+    font: normal normal 300 24px/29px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.Características i{
+    align-items: center;
+    text-align: right;
+    text-align: center;
+}
+.iguana-galeria{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000000;
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+}
+.iguana-galeria img{
+    top: 1561px;
+    left: 150px;
+    width: 316px;
+    height: 202px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #1E1A13;
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+}
+footer p{
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    top: 1874px;
+}
